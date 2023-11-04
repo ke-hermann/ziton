@@ -1,0 +1,4 @@
+included_directories = [ "/home/wintermute/", "/mnt",]
+index_on_startup = false
+live_updates = false
+database_path = /home/wintermute/.ziton/database.db

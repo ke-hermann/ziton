@@ -1,0 +1,5 @@
+++ inotify sometimes still crashes the app <--UNSURE IF FIXED-->
+++ TODO Case sensitive search
+++ TODO Highlight search text filter
+
+++ TODO  add hidden folders and excluded dir option to preference gui

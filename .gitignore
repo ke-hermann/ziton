@@ -1,0 +1,7 @@
+*.db
+*.so
+*.pyc
+.vscode/settings.json
+VENV
+.vscode/.ropeproject
+ziton/widgets/.preferences.py.~undo-tree~

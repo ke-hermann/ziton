@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyside2 = "*"
+toml = "*"
+inotify = "*"
+
+[dev-packages]
+pylint = "*"
+black = "*"
+flake8 = "*"
+rope = "*"
+mypy = "*"
+
+[requires]
+python_version = "3.10"
+
+[pipenv]
+allow_prereleases = true

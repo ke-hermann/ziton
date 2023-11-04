@@ -1,0 +1,17 @@
+QHeaderView::section {
+    background-color: #ffffff;
+    color: black;
+    padding-left: 4px;
+    /*border: 1px solid #e3e3e3; */
+    border: none;
+}
+
+QTableView {
+    gridline-color: #ffffff;
+    border: none;
+}
+
+QLineEdit {
+    border: none;
+    height: 30px;
+}
